@@ -7,6 +7,6 @@ public class Main {
         x = sc.nextLine();
         System.out.println(x);
         sc.close();
-        
+
     }
 }
